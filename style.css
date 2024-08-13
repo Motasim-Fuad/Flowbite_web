@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.colorbg{
+    transition: 1s;
+    background-color: gray;
+    border-bottom: 1px solid lightgrey;
+}
